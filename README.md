@@ -26,13 +26,10 @@ Then install dependencies using [Composer](https://getcomposer.org/doc/00-intro.
 $ composer install
 ```
 
-Copy `.env.example` to `.env`
+Copy `.env.example` to `.env` and Create the database
 ```bash
 $ cp .env.example .env
 ```
-
-## Create the database file
-
 
 ## Run
 Run the application with the following command
