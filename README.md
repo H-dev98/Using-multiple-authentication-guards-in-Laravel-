@@ -13,12 +13,12 @@ A simple implementation of multiple authentication in Laravel.
 ## Set up
 To set up this project, first clone the repositiory
 ```bash
-$ git clone https://github.com/fisayoafolayan/laravel-multiple-auth.git
+$ git clone https://github.com/H-dev98/Using-multiple-authentication-guards-in-Laravel-.git
 ```
 
 Change your working directory into the project directory
 ```bash
-$ cd laravel-multiple-auth
+$ cd projectName
 ```
 
 Then install dependencies using [Composer](https://getcomposer.org/doc/00-intro.md)
